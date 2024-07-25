@@ -1,0 +1,108 @@
+Uri: https://www.aenux.com.tr/
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\index.htm
+Content Type: text/html
+
+Uri: https://www.aenux.com.tr/images/altglow.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\altglow.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/behance.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\behance.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/comments.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\comments.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/discord.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\discord.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/features.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\features.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/footer.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\footer.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/images/home.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\images\home.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/logo.png
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\logo.png
+Content Type: image/png
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/framework-2c16ac744b6cdea6.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\framework-2c16ac744b6cdea6.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/main-05ddf51c92ce3504.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\main-05ddf51c92ce3504.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/pages/index-f40547f44447d8dd.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\pages\index-f40547f44447d8dd.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/pages/_app-4d4067d783aa4b58.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\pages\_app-4d4067d783aa4b58.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\polyfills-78c92fac7aa8fdd8.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/chunks/webpack-8fa1640cc84ba8fe.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\chunks\webpack-8fa1640cc84ba8fe.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/css/5f82b8a8f8c7996b.css
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\css\5f82b8a8f8c7996b.css
+Content Type: text/css
+
+Uri: https://www.aenux.com.tr/_next/static/media/05a31a2ca4975f99-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\05a31a2ca4975f99-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/46c21389e888bf13-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\46c21389e888bf13-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/513657b02c5c193f-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\513657b02c5c193f-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/51ed15f9841b9f9d-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\51ed15f9841b9f9d-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\c9a5bc6a7c948fb0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/d6b16ce4a6175f26-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\d6b16ce4a6175f26-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/eafabf029ad39a43-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\eafabf029ad39a43-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/ec159349637c90ad-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\ec159349637c90ad-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/media/fd4db3eb5472fc27-s.woff2
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\media\fd4db3eb5472fc27-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.aenux.com.tr/_next/static/pcpBDr6xsH0q8qrGs5dUY/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\pcpBDr6xsH0q8qrGs5dUY\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.aenux.com.tr/_next/static/pcpBDr6xsH0q8qrGs5dUY/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.aenux.com.tr\_next\static\pcpBDr6xsH0q8qrGs5dUY\_ssgManifest.js
+Content Type: application/javascript
+
